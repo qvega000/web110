@@ -1,0 +1,16 @@
+body { background-color: #ff6700; 
+		text-align: center;
+		color: #000000;
+		font-family: Verdana, Geneva, serif; }
+h1 { text-shadow: 3px 3px #dcff00;}
+nav { background-color: #d2d1cd; 
+		border-style: solid;
+		border-width: 3px;
+		margin: 10px 4in 10px 4in;
+		box-shadow: 3px 3px #dcff00;}
+div { background-color: #d2d1cd; 
+		border-style: solid;
+		border-width: 3px;
+		margin: 10px 10px 10px 10px;
+		box-shadow: 3px 3px #dcff00;
+		}
